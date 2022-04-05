@@ -7,11 +7,22 @@
         <deviceKey>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="0B211FDD4006GV" />
+            <value value="adb-0B211FDD4006GV-EN6VHk._adb-tls-connect._tcp." />
           </Key>
         </deviceKey>
       </Target>
     </runningDeviceTargetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2022-04-03T02:37:50.829552Z" />
+    <timeTargetWasSelectedWithDropDown value="2022-04-05T02:58:58.828130Z" />
+    <targetsSelectedWithDialog>
+      <Target>
+        <type value="QUICK_BOOT_TARGET" />
+        <deviceKey>
+          <Key>
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="$USER_HOME$/.android/avd/Pixel_2_API_Tiramisu.avd" />
+          </Key>
+        </deviceKey>
+      </Target>
+    </targetsSelectedWithDialog>
   </component>
 </project>
